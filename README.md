@@ -1,15 +1,15 @@
-## Hi there 👋
+## Hi, I'm Ariel Semel 👋
+
+I'm a Computer Science graduate with a focus on full stack development, DevOps and cloud computing.
+Passionate about building practical applications and optimizing development workflows.
+I enjoy working across the stack to create efficient and scalable solutions.
+Currently seeking my first role as a junior developer or DevOps engineer.
 
 
-**ArielSemel/ArielSemel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 B.Sc in Computer Science
+- 👯 I’m looking for junior roles in full-stack or DevOps.
+- 🌱 I’m currently learning cloud architecture, Kubenetes and CI/CD practies.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Reach Me : [EMAIL](arielsemel12@gmail.com) | [Linkedin](https://www.linkedin.com/in/ariel-semel/)
+
