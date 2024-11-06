@@ -10,13 +10,13 @@ Currently seeking my first role as a junior developer or DevOps engineer.
 - 🌱 I’m currently learning cloud architecture, Kubenetes and CI/CD practies.
 - 📫 Reach Me : [Linkedin](https://www.linkedin.com/in/ariel-semel/)
 
-⚒️ ### Skills & Tools
+⚒️ **Skills & Tools**
 - Languages & Frameworks: Java, Python, JS, React, Spring Boot.
 - Cloud: AWS (EC2, S3, RDS, CloudFormation, Route 53, ELB, EFS, VPC, AWS CI/CD)
 - DeVops Tools: Git, Ansible, Jenkins, Docker, K8, Terraform, Bash and Python Scripts, CI/CD.
 - DB: MySQL
 
-☀️ ### Projects
+☀️ **Projects**
 
 
 
