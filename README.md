@@ -5,7 +5,7 @@
 I'm a Computer Science graduate with a focus on full stack development, QA Automation, DevOps and cloud computing.
 Passionate about building practical applications and optimizing development workflows.
 I enjoy working across the stack to create efficient and scalable solutions.
-**Currently seeking my first role as a junior developer or QA automation engeering.**
+**Currently seeking my first role as a junior developer or QA Automation Engineer.**
 
 - 🔭 B.Sc in Computer Science
 - 👯 I’m looking for junior roles in full-stack or DevOps.
