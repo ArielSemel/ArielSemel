@@ -21,5 +21,5 @@ I enjoy working across the stack to create efficient and scalable solutions.
 ☀️ **Projects**
 - **Full Stack Projects**: [link to full stack organization projects](https://github.com/orgs/Full-Stack-ArielSemel/repositories)
 - **DevOps-Projects**: [link to DevOps organization projects](https://github.com/orgs/DevOps-ArielSemel/repositories)
-- **Data structures and Algorithms Projects**: [link to Maze-Java-Solver Project](https://github.com/ArielSemel/Maze-Java-Project)
+- **Data structures & Algorithms Projects**: [link to Maze-Java-Solver Project](https://github.com/ArielSemel/Maze-Java-Project)
 - **Big Data Seminar**: [link to seminar in Apache Spark](https://github.com/ArielSemel/Apache-Spark-Seminar)
